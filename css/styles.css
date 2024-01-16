@@ -1,0 +1,26 @@
+/* Add your custom styles here */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #f8f8f8; /* Navbar background color */
+    border: none;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.page-heading {
+    margin-top: 50px; /* Adjust as needed */
+}
+
+.main-section {
+    box-sizing: border-box;
+    background-color: #616161; /* Section background color */
+    padding: 20px;
+    margin-top: 20px;
+    min-height: 1000px; /* Adjust as needed */
+}
